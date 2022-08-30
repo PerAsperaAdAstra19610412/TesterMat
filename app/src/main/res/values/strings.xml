@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Tester</string>
+    <string name="random">Random numbers </string>
+    <string name="max">Max</string>
+    <string name="min">Min</string>
+    <string name="rvi_minsec">00:00</string>
+    <string name="rvi_xplusy">256+512=768</string>
+    <string name="txt_zero">0</string>
+    <string name="menu_set">set.</string>
+    <string name="menu_stat">stat.</string>
+    <string name="menu_start">start</string>
+    <string name="menu_stop">stop</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    
+    <!-- S.tatistica I.tem -->
+    <string name="si_for10to99">От 10 до 99</string>
+    <string name="si_all">Всего = </string>
+    <string name="si_solution">Решено =</string>
+    <string name="si_average">Среднее t =</string>
+    <string name="si_maxt">Max. t =</string>
+    <string name="si_mint">Min. t =</string>
+
+    <!-- Preference Titles -->
+    <string name="math_operation">Mathematical operation</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>

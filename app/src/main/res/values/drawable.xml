@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="vectorTimer">@drawable/ic_baseline_timer_24</drawable>
+</resources>

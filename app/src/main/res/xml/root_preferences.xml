@@ -1,0 +1,26 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory android:title="Derivatives maximum and minimum" >
+
+
+        <ynv.nigmus.testermat.EditNumPreference
+            android:defaultValue="2"
+            android:key="edit_num_min_pref"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="Edit min preference" />
+
+
+        <ynv.nigmus.testermat.EditNumPreference
+            android:defaultValue="8"
+            android:key="edit_num_max_pref"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="Edit max preference" />
+
+
+    </PreferenceCategory>
+
+
+</PreferenceScreen>
